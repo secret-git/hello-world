@@ -9,3 +9,6 @@ while(*src!='/0)
 (*dest++)='/0';
 return *dest;
 }
+/**
+远程edit
+**/
